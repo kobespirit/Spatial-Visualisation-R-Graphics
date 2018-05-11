@@ -1,10 +1,3 @@
-# Group Members
-# Shen Zhang    707496
-# Gang Fu       709659
-# Jie Pu        765316
-# Changjian Ma  653909
-
-
 # install necessary packages
 install.packages("tmap")
 install.packages("leaflet")
